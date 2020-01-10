@@ -1,4 +1,4 @@
-name: Publish Docker
+name: Docker image
 on: [push]
 jobs:
   build:
